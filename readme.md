@@ -17,7 +17,7 @@ Este repositorio contiene el material necesario para el curso: videos de clase, 
 | Sección | Descripción |
 |---------|-------------|
 | [🎥 Videos de Clase](#-videos-de-clase) | Grabaciones de cada sesión del curso |
-| [📂 PPT de Clase](#-ppt) | Diapositivas de clase |
+| [📂 PPT de Clase](#-ppt-de-clase) | Diapositivas de clase |
 | [🧪 Laboratorios](#-laboratorios) | Prácticas y guías disponibles en la carpeta `laboratorios/` |
 | [📂 Material de Referencia](#-material-de-referencia) | Presentaciones, apuntes y enlaces útiles |
 | [📝 Evaluaciones y Retos](#-evaluaciones-y-retos) | Ejercicios, quizzes y proyectos |
