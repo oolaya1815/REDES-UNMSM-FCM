@@ -37,18 +37,14 @@ Los videos estarán disponibles en el siguiente enlace:
 
 ## 📂 PPT de Clase
 Las diapositivas usadas se encuentran disponibles
-1. [Diapositiva 1]
+1. [Diapositiva 1](./diapositivas/Presentación1.pdf)
 
 ---
 
 ## 🧪 Laboratorios
 En la carpeta [`laboratorios/`](./laboratorios) encontrarás las guías prácticas y ejercicios de cada unidad.  
 
-Ejemplo:  
-- [Laboratorio 1: Instalación de entorno y “Hola Mundo”](./laboratorios/lab01.md)  
-- [Laboratorio 2: Algoritmos y pseudocódigo](./laboratorios/lab02.md)  
-- [Laboratorio 3: Introducción a Python](./laboratorios/lab03.md)  
-- [Laboratorio 4: Condicionales y bucles](./laboratorios/lab04.md)  
+- [Laboratorio 1](./laboratorios/lab01.md)  
 
 ---
 
