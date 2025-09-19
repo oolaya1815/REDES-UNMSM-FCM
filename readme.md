@@ -30,7 +30,7 @@ Este repositorio contiene el material necesario para el curso: videos de clase, 
 ## 🎥 Videos de Clase
 Los videos estarán disponibles en el siguiente enlace:  
 
-1. Clase 1()
+1. [Clase 1](https://youtu.be/gufglt9DedY)
 2. [Clase 2](https://youtu.be/5vZjwTsEXeM)
 
 ---
