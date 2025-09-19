@@ -38,6 +38,7 @@ Los videos estarán disponibles en el siguiente enlace:
 ## 📂 PPT de Clase
 Las diapositivas usadas se encuentran disponibles
 1. [Diapositiva 1](./diapositivas/Presentación1.pdf)
+2. [Diapositiva 2](./diapositivas/Presentación2.pdf)
 
 ---
 
