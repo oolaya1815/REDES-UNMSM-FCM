@@ -49,7 +49,7 @@ En la carpeta [`laboratorios/`](./laboratorios) encontrarás las guías práctic
 ---
 
 ## 📂 Material de Referencia
-- 📑 **Presentaciones**: disponibles en la carpeta [`material/`](./material)  
+- 📑 **Presentaciones**: disponibles en la carpeta [`diapositivas/`](./diapositivas)  
 - 📚 **Bibliografía recomendada**:  
   - Python for Everybody – Charles Severance  
   - Introducción a los Algoritmos – Cormen et al.
