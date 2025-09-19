@@ -61,7 +61,8 @@ En la carpeta [`laboratorios/`](./laboratorios) encontrarás las guías práctic
 
 ---
 
-## 📝 Evaluaciones y Retos
+## 📝 Evaluaciones
+- 💡 [**Asignaciones**](./asignaciones): documentos a desarrollar y presentar segun calendario
 - ✅ **Quizzes** al final de cada módulo  
 - 🚀 **Proyecto final**: Desarrollo de una aplicación simple en Python  
 - 💡 **Retos opcionales**: ejercicios adicionales para profundizar  
