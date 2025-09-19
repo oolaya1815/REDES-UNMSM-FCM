@@ -67,22 +67,41 @@ En la carpeta [`laboratorios/`](./laboratorios) encontrarás las guías práctic
 ---
 
 ## ⚙️ Requisitos Técnicos
-Antes de comenzar asegúrate de tener instalado:  
-- [ ] Python 3.10 o superior  
-- [ ] Git y GitHub  
-- [ ] Visual Studio Code o un IDE similar  
-- [ ] (Opcional) Docker para entornos aislados  
+
+Antes de comenzar el curso, asegúrate de contar con lo siguiente:
+
+### 🖥️ Software General
+- [ ] **Sistema Operativo**: Windows 10/11, Linux (Ubuntu recomendado) o macOS  
+- [ ] **Git** – Para clonar y versionar repositorios  
+- [ ] **Visual Studio Code** (o un IDE equivalente)  
+- [ ] **Python 3.10+** con `pip` actualizado  
+- [ ] **Docker Desktop** (opcional, para entornos aislados)  
+
+### 🌐 Herramientas de Redes
+- [ ] **Cisco Packet Tracer** (recomendado para simulaciones básicas)  
+- [ ] **GNS3** o **EVE-NG** (para escenarios más avanzados con imágenes de routers reales)  
+- [ ] **Wireshark** – Para análisis de tráfico de red  
+- [ ] **Cliente SSH** (ej. PuTTY o integrado en Linux/macOS)  
+
+### ⚡ Computación Paralela / HPC
+- [ ] **MPI (Message Passing Interface)** – implementación recomendada: OpenMPI o MPICH  
+- [ ] **Compiladores C/C++** (ej. `gcc`, `g++`)  
+- [ ] **Python con librerías de paralelismo**: `mpi4py`, `multiprocessing`, `concurrent.futures`  
+- [ ] (Opcional) **Cluster local o acceso a servidores HPC**  
+- [ ] **Herramientas de benchmarking** (ej. `htop`, `time`, `perf`)  
+
+### 📚 Extras
+- Navegador actualizado (Chrome/Firefox)  
+- Cuenta en GitHub para acceder a repos y colaborar  
+- Conexión a Internet estable  
 
 ---
 
 ## 📅 Cronograma
 | Semana | Tema | Laboratorio | Evaluación |
 |--------|------|-------------|------------|
-| 1 | Introducción a la computación | Lab 1 | Quiz 1 |
-| 2 | Algoritmos y diagramas de flujo | Lab 2 | Quiz 2 |
-| 3 | Introducción a Python | Lab 3 | Quiz 3 |
-| 4 | Estructuras de control | Lab 4 | Quiz 4 |
-| 5 | Funciones y modularización | Lab 5 | Proyecto Parcial |
+| 1 | Introducción | Clase virtual |
+| 2 | Subneteo | Clase virtual |
 
 ---
 
