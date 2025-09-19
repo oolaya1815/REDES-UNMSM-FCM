@@ -52,7 +52,9 @@ En la carpeta [`laboratorios/`](./laboratorios) encontrarás las guías práctic
 - 📑 **Presentaciones**: disponibles en la carpeta [`material/`](./material)  
 - 📚 **Bibliografía recomendada**:  
   - Python for Everybody – Charles Severance  
-  - Introducción a los Algoritmos – Cormen et al.  
+  - Introducción a los Algoritmos – Cormen et al.
+  - [Redes de computadoras](https://libros.metabiblioteca.org/server/api/core/bitstreams/2deaa017-ef04-4f73-866c-9a81f23ad1c0/content)
+  - [Redes](https://elhacker.info/manuales/Redes/Redes%20Cisco%20301.pdf) 
 - 🔗 **Links útiles**:  
   - [Documentación oficial de Python](https://docs.python.org/3/)  
   - [Visualgo](https://visualgo.net/) – Animaciones de estructuras y algoritmos  
