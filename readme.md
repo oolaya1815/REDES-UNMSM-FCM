@@ -1,7 +1,14 @@
-# 📘 Curso de Fundamentos de Computación y Programación
+# 📘 Curso de Redes Arquitectura y Comunicaciones
 
-Bienvenido al repositorio oficial del curso **Fundamentos de Computación y Programación** (FCM-UNMSM).  
-Aquí encontrarás todos los recursos necesarios para seguir las clases, realizar los laboratorios y acceder a materiales complementarios.  
+Bienvenido al repositorio oficial del curso **Redes Arquitectura y Comunicaciones** (FCM-UNMSM). 
+
+El curso desarrolla los siguientes temas: evolución de las redes de comunicación de datos y redes de computadoras; análisis del nivel de Red del Modelo de Referencia OSI y de la Arquitectura TCP/IP; direcciones IP, subnetting y sumarización de direcciones IP; protocolos ARP e ICMP; principales algoritmos y protocolos de enrutamiento (RIP, OSPF y BGP); seguridad en la red y administración de tráfico IP; servicio NAT; protocolos del nivel de transporte (TCP y UDP), tratamiento de errores y control de congestión.  
+
+En la capa de aplicación: encriptación, firmas digitales, servicio DNS, servicio de correo electrónico (definición, arquitectura, confidencialidad, protocolo SMTP), World Wide Web (protocolo HTTP) y sistema de administración de red (protocolo SNMP). También se abordan la integración de audio, datos y vídeo en la red, compresión de datos, telefonía en Internet y calidad del servicio.  
+
+Asimismo, se introducen los fundamentos de **computación paralela o de alto rendimiento**, incluyendo: conceptos básicos, limitaciones de las máquinas secuenciales, evolución de los sistemas de memoria, arquitecturas de máquinas paralelas y distribuidas, procesamiento vectorial, paralelismo en múltiples procesadores, modelos de programación, tareas y canales, paralelismo de datos, memoria distribuida, metodologías de paralelización (partición y aglomeración), comunicación, análisis de desempeño y estabilidad.  
+
+Este repositorio contiene el material necesario para el curso: videos de clase, guías de laboratorio, referencias bibliográficas, evaluaciones y retos prácticos.  
 
 ---
 
@@ -10,6 +17,7 @@ Aquí encontrarás todos los recursos necesarios para seguir las clases, realiza
 | Sección | Descripción |
 |---------|-------------|
 | [🎥 Videos de Clase](#-videos-de-clase) | Grabaciones de cada sesión del curso |
+| [📂 PPT de Clase](#-ppt) | Diapositivas de clase |
 | [🧪 Laboratorios](#-laboratorios) | Prácticas y guías disponibles en la carpeta `laboratorios/` |
 | [📂 Material de Referencia](#-material-de-referencia) | Presentaciones, apuntes y enlaces útiles |
 | [📝 Evaluaciones y Retos](#-evaluaciones-y-retos) | Ejercicios, quizzes y proyectos |
@@ -21,14 +29,15 @@ Aquí encontrarás todos los recursos necesarios para seguir las clases, realiza
 
 ## 🎥 Videos de Clase
 Los videos estarán disponibles en el siguiente enlace:  
-- [Playlist Oficial en YouTube](#) _(agregar link cuando esté disponible)_
 
-Cada sesión se irá indexando aquí:  
-1. Clase 1 – Introducción al curso  
-2. Clase 2 – Algoritmos y diagramas de flujo  
-3. Clase 3 – Fundamentos de programación en Python  
-4. Clase 4 – Estructuras de control  
-5. Clase 5 – Funciones y modularización  
+1. Clase 1()
+2. [Clase 2](https://youtu.be/5vZjwTsEXeM)
+
+---
+
+## 📂 PPT de Clase
+Las diapositivas usadas se encuentran disponibles
+1. [Diapositiva 1]
 
 ---
 
