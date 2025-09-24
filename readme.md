@@ -107,6 +107,7 @@ Antes de comenzar el curso, asegúrate de contar con lo siguiente:
 |--------|------|-------------|------------|
 | 1 | Introducción | Clase virtual |
 | 2 | Subneteo | Clase virtual |
+| 3 | VLSM | Clase presencial |
 
 ---
 
