@@ -1,13 +1,15 @@
 # 📘 Curso de Redes Arquitectura y Comunicaciones
 
 Bienvenido al repositorio oficial del curso **Redes Arquitectura y Comunicaciones** (FCM-UNMSM). 
-
+<p align="justify">
 El curso desarrolla los siguientes temas: evolución de las redes de comunicación de datos y redes de computadoras; análisis del nivel de Red del Modelo de Referencia OSI y de la Arquitectura TCP/IP; direcciones IP, subnetting y sumarización de direcciones IP; protocolos ARP e ICMP; principales algoritmos y protocolos de enrutamiento (RIP, OSPF y BGP); seguridad en la red y administración de tráfico IP; servicio NAT; protocolos del nivel de transporte (TCP y UDP), tratamiento de errores y control de congestión.  
-
+</p>
+<p align="justify">
 En la capa de aplicación: encriptación, firmas digitales, servicio DNS, servicio de correo electrónico (definición, arquitectura, confidencialidad, protocolo SMTP), World Wide Web (protocolo HTTP) y sistema de administración de red (protocolo SNMP). También se abordan la integración de audio, datos y vídeo en la red, compresión de datos, telefonía en Internet y calidad del servicio.  
-
+</p>
+<p align="justify">
 Asimismo, se introducen los fundamentos de **computación paralela o de alto rendimiento**, incluyendo: conceptos básicos, limitaciones de las máquinas secuenciales, evolución de los sistemas de memoria, arquitecturas de máquinas paralelas y distribuidas, procesamiento vectorial, paralelismo en múltiples procesadores, modelos de programación, tareas y canales, paralelismo de datos, memoria distribuida, metodologías de paralelización (partición y aglomeración), comunicación, análisis de desempeño y estabilidad.  
-
+</p>
 Este repositorio contiene el material necesario para el curso: videos de clase, guías de laboratorio, referencias bibliográficas, evaluaciones y retos prácticos.  
 
 ---
