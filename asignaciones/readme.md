@@ -2,4 +2,4 @@
 
 | Asignación | Fecha       | Tema/Actividad                         | Responsable/Grupo | Observaciones |
 |--------|------------|-----------------------------------------|-------------------|---------------|
-| 1      | 29/09/2025 | Investigación de estándares de redes    | Cada grupo           | - |
+| 1      | 07/10/2025 | Investigación de estándares de redes    | Cada grupo           | - |
