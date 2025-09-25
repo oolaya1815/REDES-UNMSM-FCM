@@ -46,7 +46,9 @@ Las diapositivas usadas se encuentran disponibles
 En la carpeta [`laboratorios/`](./laboratorios) encontrarás las guías prácticas y ejercicios de cada unidad.  
 
 - [Laboratorio 1](./laboratorios/laboratorio1)
-- [Laboratorio 2](./laboratorios/laboratorio2)  
+- [Laboratorio 2](./laboratorios/laboratorio2)
+- [Laboratorio 3](./laboratorios/laboratorio3)
+- [Laboratorio 4](./laboratorios/laboratorio4)   
 
 ---
 
