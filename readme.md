@@ -8,7 +8,7 @@ El curso desarrolla los siguientes temas: evolución de las redes de comunicaci�
 En la capa de aplicación: encriptación, firmas digitales, servicio DNS, servicio de correo electrónico (definición, arquitectura, confidencialidad, protocolo SMTP), World Wide Web (protocolo HTTP) y sistema de administración de red (protocolo SNMP). También se abordan la integración de audio, datos y vídeo en la red, compresión de datos, telefonía en Internet y calidad del servicio.  
 </p>
 <p align="justify">
-Asimismo, se introducen los fundamentos de **computación paralela o de alto rendimiento**, incluyendo: conceptos básicos, limitaciones de las máquinas secuenciales, evolución de los sistemas de memoria, arquitecturas de máquinas paralelas y distribuidas, procesamiento vectorial, paralelismo en múltiples procesadores, modelos de programación, tareas y canales, paralelismo de datos, memoria distribuida, metodologías de paralelización (partición y aglomeración), comunicación, análisis de desempeño y estabilidad.  
+Asimismo, se introducen los fundamentos de <b>computación paralela o de alto rendimiento</b>, incluyendo: conceptos básicos, limitaciones de las máquinas secuenciales, evolución de los sistemas de memoria, arquitecturas de máquinas paralelas y distribuidas, procesamiento vectorial, paralelismo en múltiples procesadores, modelos de programación, tareas y canales, paralelismo de datos, memoria distribuida, metodologías de paralelización (partición y aglomeración), comunicación, análisis de desempeño y estabilidad.  
 </p>
 Este repositorio contiene el material necesario para el curso: videos de clase, guías de laboratorio, referencias bibliográficas, evaluaciones y retos prácticos.  
 
