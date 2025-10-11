@@ -117,6 +117,9 @@ Antes de comenzar el curso, asegúrate de contar con lo siguiente:
 | 1 | Introducción | Clase virtual |
 | 2 | Subneteo | Clase virtual |
 | 3 | VLSM | Clase presencial |
+| 4 | VLAN | Clase virtual |
+| 5 | INTER VLAN | Clase virtual |
+| 6 | Routing | Clase virtual |
 
 ---
 
