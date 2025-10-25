@@ -55,7 +55,8 @@ En la carpeta [`laboratorios/`](./laboratorios) encontrarás las guías práctic
 - [Laboratorio 3](./laboratorios/laboratorio3)
 - [Laboratorio 4](./laboratorios/laboratorio4)
 - [Laboratorio 5](./laboratorios/laboratorio5)
-- [Laboratorio 6](./laboratorios/laboratorio6)     
+- [Laboratorio 6](./laboratorios/laboratorio6)
+- [Laboratorio 7](./laboratorios/laboratorio7)     
 
 ---
 
